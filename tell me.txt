@@ -2,3 +2,4 @@ worked as git admin performing user creating build and release activies.
 followed brach level stratagies by providing proper access to users on branches.
 resolving merge conflitcs by coordinating with dev team.
 making sure the commit messages are as per the proper naming.
+working as jenkins admins
